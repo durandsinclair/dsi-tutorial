@@ -1,0 +1,30 @@
+# Introduction
+
+This document helps you, the DSI student, get set up to do DSI Assignment 1.
+
+If you read the assignment, you may think it's a user-friendly way to introduce you to data analysis. "Look!" you might say, "I'll get to analyse my own Facebook posts! That sounds like fun!"
+
+To that I say, you fool! What we do here is not "fun". What we do here is remake you into the optimal data scientist, knowing a whole lot of data science best practices. That way, when you're sitting across the table from a maths PhD and the CEO of a bank, interviewing for a senior data science role, and they say for instance "Have you ever used version control?", you can snort and say "Version control? I learned that for my very first assignment, and have been using it for two years." And they will give you the job, and you'll go on to have many happy years getting requests for donations from the UTS Alumni Society.
+
+Here are the ways this guide will help you become that optimal data scientist:
+
+1) INSTALL - You'll learn to install R, RStudio, and most importantly, Github. 
+* R is the language we'll be working with.
+* RStudio is the IDE, that is, the software that allows you to write programs in R.
+* Github is a type of cloud-based hard disk to save code, in a way that remembers all the versions of the code you've saved, and that makes it much easier to share your code with your team without having to worry about what version everyone's using.
+
+2) SET UP A PROJECT
+* Projects are the best way to write code in R.
+* We'll learn how to set up a project that syncs with Github.
+
+3) WRITE AN RMARKDOWN FILE
+* RMarkdown allows you to write an ordinary document in R. 
+* We'll learn how to insert pictures, add formatting like bold and italics, add a footnote, and publish it to Word, PDF or HTML.
+
+4) GET AND CLEAN DATA
+* You'll get code samples to get a data set, clean and analyse it.
+* We'll talk about how to think about data so you don't have to memorise tiny details about the process, but be able to figure it out later when you've forgotten the details.
+
+5) INTRODUCTION TO FLEXDASHBOARD
+* You'll get an introduction to building dashboards with R, and some examples of why they're so interesting.
+
