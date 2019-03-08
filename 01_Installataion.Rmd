@@ -1,0 +1,56 @@
+# INSTALLATION
+
+In this section, we make sure your computer is set up with everything installed. And by everything, I mean
+
+* R
+* RStudio
+* Git
+* Github
+
+## Installing R and RStudio
+
+1) Download R from this page [https://cran.r-project.org/](https://cran.r-project.org/) which has links for Windows, Mac and Linux. Run the installation package using the default settings
+
+2) Download RStudio from this page, but only after you've installed R. [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/) . You have to scroll down a bit to get to the Installers for Supported Platforms.
+
+3) Set up Github.
+Follow the tutorial here:
+[https://happygitwithr.com/github-acct.html](https://happygitwithr.com/github-acct.html)
+
+4) Install Git on your local computer
+Follow the tutorial here:
+[https://happygitwithr.com/install-git.html](https://happygitwithr.com/install-git.html)
+
+
+## Explanation
+
+There are two ways to save a file.
+
+The first way saves the file as it is right now. Computer programmers call this a "state". A spreadsheet is an example of a state. Does a state remember that the numbers in cell C3 are in bold? Yes. But does it remember *when* you changed it to bold? No, the spreadsheet only knows what state it's in now.
+
+This has implications if you want to try something new in your spreadsheet, but want to keep a copoy of the old one just in case. Think of your hard disk like a cupboard, and your file as a brick. Saving the file to your hard disk is like putting the brick in your cupboard. It just sort of sits there, taking up space. But now if you go File -> Save As, you'll end up with two bricks, complete and whole, sitting in your cupboard, taking up even more space. And now you've got to figure out which one is which, and that involves figuring out some way of naming your bricks ("brick_01.xls", "brick_02.xls"), so you can remember which one was the latest version. And if you're anything like me, you won't. 
+
+The second way of saving the file doesn't save the actual file at all. Instead, you save the history of every change you've ever made to your project. Opening your file isn't like taking a brick out of the cupboard, it's like following the instructions to make a brick from scratch, starting with mining the clay. 
+
+Which way is better? Well, if you only have one file, save it like a brick. It's faster. It's how normal people do it. But as programmers, we work on multiple files at once. Multiple files can't be saved as a single brick, and frankly, we don't want it to. But if we were to know every change that had ever been made to a whole folder full of stuff, right from the time we first created the folder, we'd be able to go back to any point in the history of our project, which is useful when you're doing something as dangerous as programming. 
+
+And how do you remember every change you've ever made to a folder? That's what Git does.
+
+GitHub is the same thing, but in the cloud. 
+
+## But why should I learn it?
+
+Because the best jobs in data science want you to know about version control. 
+![Figure 1: A job ad from March 2019](apple_github_ad.png)
+
+Because your Github account publicly displays the number of times you've saved files there, and employers make hiring decisions based on how green it looks. That's why you want your Github graph to look like this:
+![Figure 2: A good Github graph](good_github.png)
+
+... rather than like this:
+![Figure 3: A bad Github graph](bad_github.png)
+
+Bonus points if you can make it look like this:
+![Figure 4: An optimal Github graph](hi_there_github.jpeg)
+
+## Time frame
+Installing new software can take longer than you think. It could take just half an hour to install everything above and set up your account. But it sometimes takes much, much longer, depending on your setup. Even a full day. Jenny Bryan's book is the most comprehensive book I've seen on installing everything, and seems to explore every possibility. Use it if you get stuck.
