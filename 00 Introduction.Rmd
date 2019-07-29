@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Introduction
 
 This document helps you, the DSI student, get set up to do DSI Assignment 1.
@@ -12,9 +17,9 @@ Here are the ways this guide will help you become that optimal data scientist:
 
 1) INSTALL - You'll learn to install R, RStudio, and most importantly, Github. 
 * R is the language we'll be working with to do our data analysis. 
-* RStudio is the IDE, that is, the software that allows you to write programs in R.
+* RStudio is the IDE. (That is, the software that allows you to write programs in R.)
 * Github is a type of cloud-based hard disk to save code, in a way that remembers all the versions of the code you've saved. It makes it much easier to share your code with your team mates without worrying about what version everyone's up to.
-* Installing all of these is the part of the course that involves all that blood, toil, tears and sweat. We'll point you at a tutorial that minimises that.
+* Installing all of these is the part of the course that involves all that blood, toil, tears and sweat. We'll point you at tutorials that minimises that.
 
 2) START A PROJECT - Although RStudio offers you four different ways to start doing your data analysis, you'll learn which ones to use and which ones to avoid.
 * Projects are the best way to write code in R.
@@ -28,7 +33,7 @@ Here are the ways this guide will help you become that optimal data scientist:
 
 4) GET AND CLEAN DATA
 * We'll show you little snippets of code to get a data set, clean it and analyse it. 
-* We'll talk about the joy and wonder of doing reproducible research, and introduce you to several jokes you can make at the expense of Microsoft Excel.
+* We'll talk about the joy and wonder of doing reproducible research, and introduce you to several ways you can laugh and point at Microsoft Excel.
 * We'll talk about how to think about datasets in principle, so that remembering how to do data analysis becomes like remembering a joke, rather than like memorising a dictionary. 
 * We'll show you how to put your code into RMarkdown, so you can choose to either show a chart, or show the code that produced the chart, or both.
 

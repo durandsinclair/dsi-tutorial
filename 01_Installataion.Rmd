@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # INSTALLATION
 
 In this section, we make sure your computer is set up with everything installed. And by everything, I mean
@@ -9,7 +14,7 @@ In this section, we make sure your computer is set up with everything installed.
 
 ## Why would I want to install all that?
 
-R is the most popular open-source programming language that was designed to do statistics, and [https://redmonk.com/sogrady/2018/08/10/language-rankings-6-18/](14th most popular language overall). It vies with Python as the language of choice for data science.
+R is the most popular open-source programming language that was designed to do statistics, and [https://redmonk.com/sogrady/2019/03/20/language-rankings-1-19/](15th most popular language overall). It vies with Python as the language of choice for data science.
 
 RStudio is the leading IDE to write R code with. In other words, when you want to write an R script, you'll be opening RStudio on your computer to do it.
 
@@ -47,7 +52,7 @@ The first way saves the file as it is right now. Computer programmers call this 
 
 This has implications if you want to try something new in your spreadsheet, but want to keep a copy of the old version just in case it doesn't work out. Think of your hard disk like a cupboard, and your file as a brick. Saving the file to your hard disk is like putting the brick in your cupboard. It just sort of sits there, taking up space. But now if you go File -> Save As, you'll end up with two bricks, complete and whole, sitting in your cupboard, taking up even more space. And now you've got to figure out which one is which, and that involves figuring out some way of naming your bricks ("brick_version_01.xls", "brick_version_02.xls"), so you can remember which one was the latest version. And if you're anything like me, you won't. 
 
-The second way of saving the file doesn't save the actual file at all. Instead, you save the history of every change you've ever made to your project since the beginning. Opening your file isn't like taking a brick out of the cupboard, it's like following the instructions to make a brick from scratch, starting with mining the clay. 
+The second way of saving the file doesn't save the actual file at all. Instead, you save the history of every change you've ever made to your project since the beginning. Opening your file isn't like taking a brick out of the cupboard, it's like following the instructions to make a brick from scratch, starting with how to mine the clay. 
 
 Which way is better? Well, if you only have one file, save it like a brick. It's how normal people do it. But as programmers, the second way is absolutely better, because we work on multiple files at once, and can't easily save an entire folder of stuff each time we want a new version. 
 

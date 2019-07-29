@@ -1,4 +1,10 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # STARTING A NEW PROJECT
+
 
 In this section, we look at the different ways of starting a project in R. There are three ways you can do it.
 
@@ -19,3 +25,5 @@ The worst way is to just use a single project file.
 * Notice that you can either "Clone with SSH" or "Clone with HTTPS". This refers to how Github can authenticate it's you. SSH authenticates you by getting you to download a special file called a key. Learn about how to do that in [chapter 11 of Happy Git With R](https://happygitwithr.com/ssh-keys.html). Or, you can set up your authentication using HTTPS. Learn about that in [chapter 10](https://happygitwithr.com/credential-caching.html). 
 * Copy the link by clicking the 
 
+
+to be continued...
